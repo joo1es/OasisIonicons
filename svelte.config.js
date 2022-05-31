@@ -21,7 +21,7 @@ const config = {
             fallback: null
         }),
         paths: {
-            base: '/OasisUI'
+            base: '/OasisIonicons'
         }
     }
 }
