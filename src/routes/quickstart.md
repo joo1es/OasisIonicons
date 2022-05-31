@@ -1,7 +1,3 @@
-Ionicons for svelte.
-
-[Docs](https://joo1es.github.io/OasisIonicons/)
-
 #### Install
 
 ```bash

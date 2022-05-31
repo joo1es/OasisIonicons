@@ -4,6 +4,10 @@ export default [
         link: '/'
     },
     {
+        title: 'Quick Start',
+        link: '/quickstart'
+    },
+    {
         title: 'Component',
         children: [
             {

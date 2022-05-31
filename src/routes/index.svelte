@@ -54,9 +54,10 @@
         align-items: center;
         justify-content: center;
         cursor: default;
-        padding: 30px;
+        padding: 30px 20px;
         color: #888;
         font-size: 13px;
+        word-break: break-all;
         :global(.o-icon) {
             margin-bottom: 15px;
             color: #333;
