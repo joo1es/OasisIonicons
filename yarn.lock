@@ -3930,11 +3930,6 @@ split-on-first@^1.0.0:
   resolved "https://registry.yarnpkg.com/split-on-first/-/split-on-first-1.1.0.tgz#f610afeee3b12bce1d0c30425e76398b78249a5f"
   integrity sha512-43ZssAJaMusuKWL8sKUBQXHWOpq8d6CfN/u1p4gUzfJkM05C8rxTmYrkIPTXapZpORA6LkkzcUulJ8FqA7Uudw==
 
-star-markdown-css@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/star-markdown-css/-/star-markdown-css-0.3.3.tgz#0f9db55a358b4f92274fc89f8c0b525190bcdb39"
-  integrity sha512-F8hrbZQIM4CryGJbNGkbUfLTgnDF0+bTuo7Omtw0+OOjf5JGPWWj0rVqcKFCuypZwuyraDh3CZ46Yhf5LDj8SA==
-
 statuses@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"

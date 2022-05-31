@@ -44,7 +44,6 @@
     "type": "module",
     "dependencies": {
         "prism-svelte": "^0.5.0",
-        "prismjs": "^1.28.0",
-        "star-markdown-css": "^0.3.3"
+        "prismjs": "^1.28.0"
     }
 }
