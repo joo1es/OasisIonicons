@@ -20,7 +20,7 @@ import { Icon } from '@oasis-end/ionicons'
 
 ### Props
 
-| 参数         | 说明                                                          | 类型                                                       | 默认值 |
+| Prop         | Introduction                                                          | Type                                                       | Default |
 | ------------ | ------------------------------------------------------------- | ---------------------------------------------------------- | ------ |
 | size          | The size of icon                                                      | _string \| number_ | -      |
 | color         | The color of icon                                                        | _string_                                                   | -     |
